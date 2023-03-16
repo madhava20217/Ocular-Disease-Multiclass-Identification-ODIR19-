@@ -4,3 +4,8 @@ numpy
 openpyxl
 numpy
 sklearn
+opencv-python
+tqdm
+gdown
+plotly
+scikit-image
