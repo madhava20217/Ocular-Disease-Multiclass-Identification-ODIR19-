@@ -11,3 +11,4 @@ plotly
 scikit-image
 torchinfo
 scikit-learn
+albumentations
