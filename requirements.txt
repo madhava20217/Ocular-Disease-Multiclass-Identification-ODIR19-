@@ -9,3 +9,4 @@ tqdm
 gdown
 plotly
 scikit-image
+torchinfo
