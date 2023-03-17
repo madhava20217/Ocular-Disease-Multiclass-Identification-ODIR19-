@@ -10,3 +10,4 @@ gdown
 plotly
 scikit-image
 torchinfo
+scikit-learn
