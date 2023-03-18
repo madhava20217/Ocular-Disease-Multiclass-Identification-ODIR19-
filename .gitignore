@@ -2,3 +2,4 @@ Datasets/ocular-disease-recognition-odir5k/ODIR-5K/ODIR-5K/Testing Images/*
 Datasets/ocular-disease-recognition-odir5k/ODIR-5K/ODIR-5K/Training Images/*
 Datasets/ocular-disease-recognition-odir5k/preprocessed_images/*
 Datasets/ocular-disease-recognition-odir5k/preprocessed_histeq_images/*
+Datasets/ocular-disease-recognition-odir5k/inception_preprocessed_images/*

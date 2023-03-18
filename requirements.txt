@@ -12,3 +12,4 @@ scikit-image
 torchinfo
 scikit-learn
 albumentations
+wandb
