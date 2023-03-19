@@ -2,6 +2,8 @@
 
 The project involves multilabel classification using the ODIR dataset.
 
+
+
 The following files are of relevance:
 1. Datasets/
 2. Preprocessing.ipynb: preprocessing the CSV files and downloading the files
@@ -17,3 +19,8 @@ The following files are of relevance:
    - Inceptionv3_Baseline_DL_Project.ipynb: for inceptionv3, needs inception_v3.pt in directory for inference only.
 
 The flow is as follows:
+
+0. Dependency installation
+1. Preprocessing
+2. Histogram_Equi.ipynb
+3. Then can run either EfficientNet (do the other 4 before Ensemble_Baseline)
