@@ -2,7 +2,7 @@
 
 The project involves multilabel classification using the ODIR dataset.
 
-
+Requirements can be found in the environment.yml file. It has all the required dependencies and more.
 
 The following files are of relevance:
 1. Datasets/
