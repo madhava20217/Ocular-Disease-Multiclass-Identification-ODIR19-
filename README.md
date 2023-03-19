@@ -20,7 +20,7 @@ The following files are of relevance:
 
 The flow is as follows:
 
-0. Dependency installation
-1. Preprocessing
-2. Histogram_Equi.ipynb
-3. Then can run either EfficientNet (do the other 4 before Ensemble_Baseline)
+1. Dependency installation
+2. Preprocessing
+3. Histogram_Equi.ipynb
+4. Then can run either EfficientNet (do the other 4 before Ensemble_Baseline)
