@@ -3,6 +3,6 @@ Datasets/ocular-disease-recognition-odir5k/ODIR-5K/ODIR-5K/Training Images/*
 Datasets/ocular-disease-recognition-odir5k/preprocessed_images/*
 Datasets/ocular-disease-recognition-odir5k/preprocessed_histeq_images/*
 Datasets/ocular-disease-recognition-odir5k/inception_preprocessed_images/*
-inception_v3.pt
+InceptionV3/inception_v3.pt
 wandb/*
 checkpoint.pt
