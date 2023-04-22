@@ -7,3 +7,13 @@ Datasets/ocular-disease-recognition-odir5k/inception_histeq_preprocessed_images/
 InceptionV3/inception_v3.pt
 wandb/*
 checkpoint.pt
+NewModel/21.pt
+NewModel/22.pt
+NewModel/23.pt
+NewModel/24.pt
+NewModel/25.pt
+NewModel/0finetuning.pt
+NewModel/1finetuning.pt
+NewModel/2finetuning.pt
+NewModel/3finetuning.pt
+NewModel/4finetuning.pt
