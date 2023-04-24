@@ -24,3 +24,5 @@ NewModel/finetune25.pt
 
 NewModel/finetuned.pt
 NewModel/datasets.trch
+NewModel/checkpoint_deit.pt
+NewModel/finetuned_deit.pt
