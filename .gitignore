@@ -26,3 +26,11 @@ NewModel/finetuned.pt
 NewModel/datasets.trch
 NewModel/checkpoint_deit.pt
 NewModel/finetuned_deit.pt
+NewModel/swint_rgb_finetuned.pt
+.gitignore
+.gitignore
+NewModel/datasets_hist.trch
+NewModel/datasets_en.trch
+NewModel/checkpoint_swint_rgb.pt
+NewModel/finetuned_swint_rgb.pt
+NewModel/finetuned_swint_hist.pt
