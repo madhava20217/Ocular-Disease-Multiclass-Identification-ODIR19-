@@ -34,3 +34,4 @@ NewModel/datasets_en.trch
 NewModel/checkpoint_swint_rgb.pt
 NewModel/finetuned_swint_rgb.pt
 NewModel/finetuned_swint_hist.pt
+NewModel/deit_finetuneed_best.pt
